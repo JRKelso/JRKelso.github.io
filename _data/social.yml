@@ -1,0 +1,36 @@
+# Icons on the footer
+rss: true         # Make sure you created a feed.xml with feed.xml layout
+email_address:    # Full email address, e.g. "sam@example.com"
+behance:
+bitbucket:
+dribbble:
+facebook:
+flickr:
+gitlab:
+github: "JRKelso"
+instagram:
+keybase:
+linkedin: "https://www.linkedin.com/in/jeremy-ryan-kelso-37765474/"        # Full URL
+pinterest:
+reddit:
+soundcloud:
+stack_overflow:
+stack_exchange: "https://security.stackexchange.com/users/107418/ryan-kelso"    # Full URL
+steam:
+tumblr:
+twitter: "dreadjak"          # "twitter username"
+vimeo:
+wordpress:
+youtube:
+
+# Share button options
+share:
+  facebook: true
+  twitter: true
+  tumblr:
+  pinterest:
+  pocket:
+  reddit: true
+  linkedin:
+  wordpress:
+  email: true
